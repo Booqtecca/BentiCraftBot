@@ -5,7 +5,7 @@ const config = require("../config.json")
 module.exports = {
     name: "hcf",
     run: async(client, message, args) => {
-        util.queryFull(`45.134.8.12`, { port: 19171 }).then((response) =>{
+        util.queryFull(`74.208.19.235`, { port: 19132 }).then((response) =>{
 
         
         
