@@ -5,7 +5,7 @@ const config = require("../config.json")
 module.exports = {
     name: "network",
     run: async(client, message, args) => {
-        util.queryFull(`45.134.8.12`, { port: 19171 }).then((response) =>{
+        util.queryFull(`172.96.172.41`, { port: 19132 }).then((response) =>{
 
         
         
