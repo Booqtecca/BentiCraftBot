@@ -3,7 +3,7 @@ const Discord = require("discord.js")
 const config = require("../config.json")
 
 module.exports = {
-    name: "status",
+    name: "factions",
     run: async(client, message, args) => {
         util.queryFull(`45.134.8.12`, { port: 19171 }).then((response) =>{
 
