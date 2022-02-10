@@ -8,7 +8,7 @@ module.exports = {
     usage: "i!suggest <suggestion>",
     run: async (client, message, args) => {
         let suggestion = args.slice(0).join(" ");
-        let SuggestionChannel = message.guild.channels.cache.find(channel => channel.id === `905277543039528990`);
+        let SuggestionChannel = message.guild.channels.cache.find(channel => channel.id === `938830447981506601`);
       
       if(!suggestion) {
         return message.reply("!suggest <sugerencia>")
