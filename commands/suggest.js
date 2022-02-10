@@ -16,7 +16,7 @@ module.exports = {
       
       
         const embed = new MessageEmbed()
-            .setTitle("New suggest")
+            .setTitle("BentiCraft Suggest System")
             .setDescription(suggestion)
             .setColor("RANDOM")
             .setFooter(`suggestion make by ${message.author.username}`)
