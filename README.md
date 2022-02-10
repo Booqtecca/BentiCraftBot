@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://BentiSystem"><img src="https://images-ext-1.discordapp.net/external/2_EB53riFWyD4xWDFTV5BpKonNKvAwKeTOYCIYP9rwM/%3Fsize%3D2048/https/cdn.discordapp.com/icons/919968090182258688/c37a6b3422cd07683fb6dc41f2f8591a.png" width="100%" height="250"></img></a><br>
+<a href="https://BentiSystem"><img src="" width="100%" height="250"></img></a><br>
 <b></b>
 </p>
 <p align="center">
